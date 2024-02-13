@@ -1,0 +1,1 @@
+# Static-Sign-Language-Recognition-and-Hand-Gesture-Detection
