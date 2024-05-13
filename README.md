@@ -1,26 +1,21 @@
 ## Author
-- **Name:** Oladayo  Ayokunle Luke
-- **Email:** oladayo.a.luke@gmail.com
+- **Name:** Oladayo  A. Luke
 - **LinkedIn:** https://www.linkedin.com/in/oladayo-l-2414a675/
 - **Website:** https://www.oladayo.ai
 
 ## Created Date
 - **Date:** May 09, 2024
 
-# Dissertation : Enhancing Sign Language Recognition and Hand Gesture Detection Using Convolutional Neural Networks and Data Augmentation Techniques
+# Dissertation Source Code
 
-## Dataset
-The generated dataset:
-https://www.kaggle.com/datasets/oladayoluke/enhanced-sign-language-mnist-dataset/
-
-The benchmark dataset
-https://www.kaggle.com/datasets/datamunge/sign-language-mnist/
-
-# Sample Source Code
+This repository contains the dataset and source code developed as part of my dissertation research on enhancing sign language recognition and hand gesture detection using Convolutional Neural Networks (CNNs) and data augmentation techniques.
 https://www.kaggle.com/datasets/oladayoluke/enhanced-sign-language-mnist-dataset/code
 
 
-# File Description
+## Dataset
+The Sign Language MNIST dataset and the Enhanced Sign Language MNIST dataset used in this research can be downloaded from their respective sources. Please refer to the dataset link below for more information on how to download and use the datasets.
+https://www.kaggle.com/datasets/oladayoluke/enhanced-sign-language-mnist-dataset/
+
 k_train.csv: contains the base train samples.
 
 k_test.csv: contains the base test samples.
@@ -29,7 +24,7 @@ g_train.csv: contains the generated train samples.
 
 g_test.csv: contains the generated test samples.
 
-# Enhanced Dataset Classes and Count
+Enhanced Dataset Classes and Count
 Label	Description	Count
 0	A	2900
 1	B	2885
@@ -72,5 +67,13 @@ Phase 3
 	Stage 7 : DAM3 on all CNN models
 	Stage 8 : DAM4 on all CNN models
 	Stage 9 : Examination of Data
+	
+# Citation
+If you use this code or the datasets in your research, please cite the following dissertation:
+
+Oladayo Luke. (2024). Enhancing Sign Language Recognition and Hand Gesture Detection using Convolutional Neural Networks and Data Augmentation Techniques. (Doctoral dissertation, Nova Southeastern University).
+
+# Closing Remarks
+Thank you for exploring the source code for my dissertation research. I hope this code provides a useful starting point for your own research in sign language recognition and gesture detection. If you have any questions or feedback, please feel free to contact me through my linkedIn.
 	
 
