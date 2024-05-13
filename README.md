@@ -1,6 +1,35 @@
-# Enhancing Sign Language Recognition and Hand Gesture Detection Using Convolutional Neural Networks and Data Augmentation Techniques
+## Author
+- **Name:** Oladayo  Ayokunle Luke
+- **Email:** oladayo.a.luke@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/oladayo-l-2414a675/
+- **Website:** https://www.oladayo.ai
 
-Enhanced Dataset Classes and Count
+## Created Date
+- **Date:** May 09, 2024
+
+# Dissertation : Enhancing Sign Language Recognition and Hand Gesture Detection Using Convolutional Neural Networks and Data Augmentation Techniques
+
+## Dataset
+The generated dataset:
+https://www.kaggle.com/datasets/oladayoluke/enhanced-sign-language-mnist-dataset/
+
+The benchmark dataset
+https://www.kaggle.com/datasets/datamunge/sign-language-mnist/
+
+# Sample Source Code
+https://www.kaggle.com/datasets/oladayoluke/enhanced-sign-language-mnist-dataset/code
+
+
+# File Description
+k_train.csv: contains the base train samples.
+
+k_test.csv: contains the base test samples.
+
+g_train.csv: contains the generated train samples.
+
+g_test.csv: contains the generated test samples.
+
+# Enhanced Dataset Classes and Count
 Label	Description	Count
 0	A	2900
 1	B	2885
@@ -26,3 +55,22 @@ Label	Description	Count
 22	W	2874
 23	X	2874
 24	Y	2893
+
+## Project Structure.
+Phase 1
+	Stage 1 - 24 : Data generation
+Phase 2
+	Stage 1 : Hyperparameter search
+	Stage 2 : Data Augmemtation methods search
+Phase 3
+	Stage 1 : DAM1 on all CNN models
+	Stage 2 : DAM2 on all CNN models
+	Stage 3 : DAM3 on all CNN models
+	Stage 4 : DAM4 on all CNN models
+	Stage 5 : DAM1 on all CNN models
+	Stage 6 : DAM2 on all CNN models
+	Stage 7 : DAM3 on all CNN models
+	Stage 8 : DAM4 on all CNN models
+	Stage 9 : Examination of Data
+	
+
